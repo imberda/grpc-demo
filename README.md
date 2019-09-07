@@ -9,7 +9,7 @@ Note that this project was part of a tech talk I gave to my team end of 2018. Th
 * Slide Deck:
     * [Keynote](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.key?raw=true)
     * [PowerPoint](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.pptx?raw=true)
-    * [PDF](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.pptx?raw=true)
+    * [PDF](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.pdf?raw=true)
 
 #### Project Structure
 
