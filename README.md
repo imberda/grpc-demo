@@ -7,9 +7,9 @@ This project provides a basic demo of GRPC. You can find more details at the [of
 Note that this project was part of a tech talk I gave to my team end of 2018. The code and slides used are found within this repositry.
 
 * Slide Deck:
-    * [Keynote](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.key)
-    * [PowerPoint](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.pptx)
-    * [PDF](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.pptx)
+    * [Keynote](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.key?raw=true)
+    * [PowerPoint](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.pptx?raw=true)
+    * [PDF](https://github.com/imberda/grpc-demo/blob/master/GRPC_Talk.pptx?raw=true)
 
 #### Project Structure
 
