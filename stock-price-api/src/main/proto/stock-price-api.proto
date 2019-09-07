@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+package com.imberda.stockprices.v1;
+
+option java_package = "com.imberda.stockprices.v1";
+option java_outer_classname = "StockPriceApi";
+option java_multiple_files = true;
+
+//import "google/protobuf/wrappers.proto";
+//import "google/protobuf/any.proto";
+import "google/protobuf/timestamp.proto";
+
+message StockPriceRequest {
+    string symbol = 1;
+}
+
+message StockPriceResponse {
+    google.protobuf.Timestamp timestamp = 1;
+    StockPrice stockPrice = 2;
+}
+
+message StockPrice {
+    string symbol = 1;
+    double price = 2;
+}
+
+service StockPrices {
+    rpc RequestPrice (StockPriceRequest) returns (StockPriceResponse);
+}
